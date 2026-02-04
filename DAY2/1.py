@@ -9,7 +9,7 @@ client = OpenAI(
 print("連線成功！現在可以開始對話了（輸入 exit 結束）。")
 
 while True:
-    user_input = input("\n我：")
+    user_input = input("\n：")
     if user_input.lower() == 'exit':
         break
         
