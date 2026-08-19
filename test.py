@@ -1,1 +1,1 @@
-import jabba
+print("Hello world")
